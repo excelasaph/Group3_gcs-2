@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+echo "Enter a path directory: "
+read -r PATHNAME
+
